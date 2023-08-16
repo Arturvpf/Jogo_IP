@@ -7,7 +7,7 @@ typedef struct{
     float largura;
     float altura;
 }Dimensao;
-//teste
+//teste 12
 typedef struct{
     int Idle;
     int Run;
