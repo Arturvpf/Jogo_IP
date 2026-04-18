@@ -17,18 +17,18 @@ This template serves as a foundational project setup for C++ developers interest
 ## Video Tutorial
 
 <p align="center">
-  <img src="preview.jpg" alt="Preview Image" width="800">
+ <img src="preview.jpg" alt="Preview Image" width="800">
 </p>
 
 <p align="center">
-  🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8" target="_blank">Watch the Video Tutorial on YouTube</a>
+ <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8" target="_blank">Watch the Video Tutorial on YouTube</a>
 </p>
 
 <br>
 
 <p align="center">
-  | 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg" target="_blank">My YouTube Channel</a>
-  | 🌍 <a href="http://www.educ8s.tv" target="_blank">My Website</a> |
+ | <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg" target="_blank">My YouTube Channel</a>
+ | <a href="http://www.educ8s.tv" target="_blank">My Website</a> |
 </p>
 
 ## Requirements
